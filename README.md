@@ -1,7 +1,8 @@
 # lucas Rodrigo
-## Teste 1 
-## Teste 2
-## Teste 3
-## Teste 4
+### Operador de caixa. 
+### Estudante de Economia na UDESC-ESAG.
+### Aluno do curso de Engenheiro Front-end da EBAC.
+### Apaixonado por astronomia e astrofísica.
+### Enfermeiro veterinário "aposentado".
 
 
